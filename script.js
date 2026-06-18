@@ -13,4 +13,4 @@ var uesName;
 
 alert("weicome to my pogram");
 uesName=prompt('whts is your name?');
-aiert("Hi + uesName + welcome to turkish shop");
+aiert("Hi + uesName + welcome to turkish shop");    
