@@ -15,4 +15,4 @@ alert("weicome to my pogram");
 uesName=prompt('whts is your name?');
 alert(" Hi " + uesName + " welcome to turkish shop");
 prompt('plaes enter your age');
-alkert()
+alkert(you are )
