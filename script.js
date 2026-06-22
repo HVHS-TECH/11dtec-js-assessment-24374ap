@@ -17,4 +17,4 @@ alert(" Hi " + uesName + " welcome to turkish shop");
 prompt('plaes enter your age');
 prompt('put your username');
 prompt('ok and password');
-alert("this is you")
+alert("this is you turkish menu card ")
