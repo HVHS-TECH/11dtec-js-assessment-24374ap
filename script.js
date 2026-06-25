@@ -18,3 +18,4 @@ prompt('plaes enter your age');
 prompt('put your username');
 prompt('ok and password');
 alert("this is you turkish menu card ")
+w
