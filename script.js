@@ -19,4 +19,4 @@ prompt('put your username');
 prompt('ok and password');
 alert("this is you turkish menu card ")
 alert("pick one your favorite food")
-pormpt("ok pick yuor food name");
+alert("ok pick yuor food name");
