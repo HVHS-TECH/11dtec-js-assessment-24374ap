@@ -19,4 +19,4 @@ uesage=prompt('plaes enter your age');
 console.log(uesage)
 prompt('ok and password');
 alert("this is you turkish menu card ");
-alert("pick one your favorite food");
+alert("pick your favorite food");
